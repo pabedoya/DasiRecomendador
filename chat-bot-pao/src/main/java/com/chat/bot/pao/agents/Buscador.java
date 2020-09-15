@@ -1,6 +1,11 @@
 package com.chat.bot.pao.agents;
 
 import java.util.ArrayList;
+
+//CLases de agentes basadas en un ejemplo encontrado en la siguiente dirección 
+//se ajusto a busqueda, recomendador y bot 
+//https://www.adictosaltrabajo.com/2015/10/26/introduccion-a-akka-para-java-con-ejemplos/
+
 import java.util.List;
 
 import javax.inject.Inject;
